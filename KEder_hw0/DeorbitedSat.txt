@@ -1,0 +1,45 @@
+"Advanced Orion 5 (Mentor, NRO L-32, USA 223)"
+USA
+National Reconnaissance Office (NRO)
+Military
+Earth Observation
+Electronic Intelligence
+GEO
+35500
+35500
+1436
+11/21/2010
+
+Cape Canaveral
+Delta 4 Heavy
+37232
+3Cat-1
+Spain
+Universitat Politècnica de Catalunya
+Civil
+Technology Development
+
+LEO
+476
+500
+95
+11/29/2018
+
+Satish Dhawan Space Centre
+PSLV
+43728
+Aerocube 10A (Jimsat)
+USA
+Aerospace Corporation
+Commercial
+Technology
+Development
+LEO	Non-Polar Inclined
+469
+481
+94.15
+8/9/2019
+
+Cygnus
+Nanorack Deployer
+44485
